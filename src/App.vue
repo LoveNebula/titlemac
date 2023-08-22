@@ -14,7 +14,7 @@ console.log(ref);
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Vite + Vue" dieds="你好" />
 </template>
 
 <style scoped>
